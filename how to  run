@@ -1,0 +1,6 @@
+1. download and indtall xampp for the database
+2. open apache and mysql and go to http://localhost/phpmyadmin/
+3. create new database name it 'exams'
+4. import database from the database folder
+5. clone the project open in the terminal the server and client folder
+6. inside the client and server folder type npm install 
